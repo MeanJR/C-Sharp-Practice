@@ -1,0 +1,5 @@
+D:\CodeLearning\BornToDev\C#\BookStrore-App\obj\Debug\net5.0-windows\BookStrore-App.csprojAssemblyReference.cache
+D:\CodeLearning\BornToDev\C#\BookStrore-App\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\CodeLearning\BornToDev\C#\BookStrore-App\obj\Debug\net5.0-windows\App.g.cs
+D:\CodeLearning\BornToDev\C#\BookStrore-App\obj\Debug\net5.0-windows\BookStrore-App_MarkupCompile.cache
+D:\CodeLearning\BornToDev\C#\BookStrore-App\obj\Debug\net5.0-windows\BookStrore-App_MarkupCompile.lref
