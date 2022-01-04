@@ -1,0 +1,15 @@
+D:\CodeLearning\BornToDev\C#\GradeCalculate\bin\Debug\net5.0\GradeCalculate.exe
+D:\CodeLearning\BornToDev\C#\GradeCalculate\bin\Debug\net5.0\GradeCalculate.deps.json
+D:\CodeLearning\BornToDev\C#\GradeCalculate\bin\Debug\net5.0\GradeCalculate.runtimeconfig.json
+D:\CodeLearning\BornToDev\C#\GradeCalculate\bin\Debug\net5.0\GradeCalculate.runtimeconfig.dev.json
+D:\CodeLearning\BornToDev\C#\GradeCalculate\bin\Debug\net5.0\GradeCalculate.dll
+D:\CodeLearning\BornToDev\C#\GradeCalculate\bin\Debug\net5.0\ref\GradeCalculate.dll
+D:\CodeLearning\BornToDev\C#\GradeCalculate\bin\Debug\net5.0\GradeCalculate.pdb
+D:\CodeLearning\BornToDev\C#\GradeCalculate\obj\Debug\net5.0\GradeCalculate.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeLearning\BornToDev\C#\GradeCalculate\obj\Debug\net5.0\GradeCalculate.AssemblyInfoInputs.cache
+D:\CodeLearning\BornToDev\C#\GradeCalculate\obj\Debug\net5.0\GradeCalculate.AssemblyInfo.cs
+D:\CodeLearning\BornToDev\C#\GradeCalculate\obj\Debug\net5.0\GradeCalculate.csproj.CoreCompileInputs.cache
+D:\CodeLearning\BornToDev\C#\GradeCalculate\obj\Debug\net5.0\GradeCalculate.dll
+D:\CodeLearning\BornToDev\C#\GradeCalculate\obj\Debug\net5.0\ref\GradeCalculate.dll
+D:\CodeLearning\BornToDev\C#\GradeCalculate\obj\Debug\net5.0\GradeCalculate.pdb
+D:\CodeLearning\BornToDev\C#\GradeCalculate\obj\Debug\net5.0\GradeCalculate.genruntimeconfig.cache
