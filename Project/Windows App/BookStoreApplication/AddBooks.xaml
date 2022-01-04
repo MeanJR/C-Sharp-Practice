@@ -1,0 +1,20 @@
+﻿<Window x:Class="BookStoreApplication.AddBooks"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookStoreApplication"
+        mc:Ignorable="d"
+        Title="AddBooks" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="titleName" HorizontalAlignment="Left" Margin="264,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="277" Height="26"/>
+        <TextBox x:Name="description" HorizontalAlignment="Left" Margin="264,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="277" Height="47"/>
+        <TextBox x:Name="priceBook" HorizontalAlignment="Left" Margin="264,246,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="277" Height="26"/>
+        <Label Content="Title" HorizontalAlignment="Left" Margin="155,105,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.514,-0.347" FontSize="16" FontWeight="Bold"/>
+        <Label Content="Description" HorizontalAlignment="Left" Margin="150,167,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.514,-0.347" FontSize="16" FontWeight="Bold"/>
+        <Label Content="Price" HorizontalAlignment="Left" Margin="155,246,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.514,-0.347" FontSize="16" FontWeight="Bold"/>
+        <Button x:Name="Submit" Content="Submit" HorizontalAlignment="Left" Margin="264,307,0,0" VerticalAlignment="Top" Height="50" Width="99" Click="Submit_Click"/>
+        <Button x:Name="close" Content="Close" HorizontalAlignment="Left" Margin="418,307,0,0" VerticalAlignment="Top" Height="50" Width="99" Click="close_Click"/>
+
+    </Grid>
+</Window>
